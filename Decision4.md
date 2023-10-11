@@ -7,6 +7,7 @@
 The app needs to obtain permission from users before enabling its functionalities to protect user’s personal data and privacy. 
 
 **Rationale**
+
 The single Consent approach is a straightforward approach to obtaining permission from users to grant or deny access to all requested permissions at once. Conversely, Granular permissions allow users to configure the privacy and security level by granting or denying each specific function or feature one by one. 
 
 **Consequences**
