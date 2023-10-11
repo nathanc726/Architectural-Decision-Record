@@ -13,16 +13,24 @@ Approved.
 Our team has been invited to develop a new mobile application (app) for a retail company. The goal is to enhance proﬁtability and expand the company’s global presence by improving user experiences through the app. The app is designed to oﬀer the following features to customers:
 
 •	browse products and view order history without an internet connection.
+
 •	purchase products.
+
 •	track order delivery status. 
+
 •	access and participate in the loyalty program to earn and redeem points.
+
 
 In addition to the functionalities for customers mentioned above, the retail company requires the following functionalities that allow it to collect user data for business analysis and processing payments. The data collected will be used and analyzed to design business strategies for business expansion on an international scale. Data in the app must be synchronized with the server once internet connection is available. The following are the functionalities that the retail company requires.
 
 •	notify users about order updates, new product arrivals, exclusive offers, and order delivery status via push notification.
+
 •	integrate secured payment gateways.
+
 •	track user behavior for business analysis and performance enhancement purposes.
+
 •	implement image optimization techniques for product image display by choosing a suitable image storage solution.
+
 •	equip database to support multiple languages and cultural preferences.
 
 Page | 2
