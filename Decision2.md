@@ -1,0 +1,39 @@
+﻿<a name="br1"></a> 
+
+**Decision 2 - UI Framework**
+
+**Choice: React Naꢀve.**
+
+A choice of React Naꢀve ﬁts the development of this app rather than Xamarin.
+
+**Raꢀonale**
+
+React Naꢀve uses JavaScript and React to build plaꢁorm-speciﬁc UI components while Xamarin uses C#
+
+and the .NET framework. Both allow developers to write a single codebase for the interface working across
+
+both iOS and Android plaꢁorms. According to [1], the market share of using React Naꢀve is 40% compared
+
+to 11% of Xamarin. In addiꢀon, Xamarin will be replaced by .NET MAUI in 2024 which requires developers
+
+to obtain new skills and knowledge which results in more ꢀme and eﬀort on app development.
+
+**Consequences**
+
+With consideraꢀon of the popularity of usage, the market share of React Naꢀve is signiﬁcantly higher than
+
+that of Xamarin. The community support from React Naꢀve is higher. There is also no planned
+
+transformaꢀon of React Naꢀve. Developers who are already familiar with these skills are not required to
+
+acquire new skills and knowledge. Development ꢀme can be shortened.
+
+Because of the upcoming transformaꢀon from Xamarin to .NET MAUI, developers need addiꢀonal ꢀme
+
+and eﬀort to learn and master the new skills. They may be more likely to make mistakes iniꢀally. Using
+
+React Naꢀve for a UI Framework of this app is a beꢂer decision.
+
+Page | 6
+
+
