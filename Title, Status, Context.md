@@ -1,4 +1,4 @@
-﻿<a name="br1"></a> 
+<a name="br1"></a> 
 
 **Title**
 
@@ -10,61 +10,20 @@ Approved.
 
 **Context**
 
-Our team has been invited to develop a new mobile applicaꢀon (app) for a retail company. The goal is to
+Our team has been invited to develop a new mobile application (app) for a retail company. The goal is to enhance proﬁtability and expand the company’s global presence by improving user experiences through the app. The app is designed to oﬀer the following features to customers:
 
-enhance proﬁtability and expand the company’s global presence by improving user experiences through
+•	browse products and view order history without an internet connection.
+•	purchase products.
+•	track order delivery status. 
+•	access and participate in the loyalty program to earn and redeem points.
 
-the app. The app is designed to oﬀer the following features to customers:
+In addition to the functionalities for customers mentioned above, the retail company requires the following functionalities that allow it to collect user data for business analysis and processing payments. The data collected will be used and analyzed to design business strategies for business expansion on an international scale. Data in the app must be synchronized with the server once internet connection is available. The following are the functionalities that the retail company requires.
 
-·
-
-·
-
-·
-
-·
-
-browse products and view order history without an internet connecꢀon.
-
-purchase products.
-
-track order delivery status.
-
-access and parꢀcipate in the loyalty program to earn and redeem points.
-
-In addiꢀon to the funcꢀonaliꢀes for customers menꢀoned above, the retail company requires the
-
-following funcꢀonaliꢀes that allow it to collect user data for business analysis and processing payments.
-
-The data collected will be used and analyzed to design business strategies for business expansion on an
-
-internaꢀonal scale. Data in the app must be synchronized with the server once internet connecꢀon is
-
-available. The following are the funcꢀonaliꢀes that the retail company requires.
-
-·
-
-noꢀfy users about order updates, new product arrivals, exclusive oﬀers, and order delivery status
-
-via push noꢀﬁcaꢀon.
-
-·
-
-·
-
-·
-
-integrate secured payment gateways.
-
-track user behavior for business analysis and performance enhancement purposes.
-
-implement image opꢀmizaꢀon techniques for product image display by choosing a suitable image
-
-storage soluꢀon.
-
-·
-
-equip database to support mulꢀple languages and cultural preferences.
+•	notify users about order updates, new product arrivals, exclusive offers, and order delivery status via push notification.
+•	integrate secured payment gateways.
+•	track user behavior for business analysis and performance enhancement purposes.
+•	implement image optimization techniques for product image display by choosing a suitable image storage solution.
+•	equip database to support multiple languages and cultural preferences.
 
 Page | 2
 
@@ -72,21 +31,11 @@ Page | 2
 
 <a name="br2"></a> 
 
-According to the above requirements given by the retail company, we will develop a mobile app with 6 key
+According to the above requirements given by the retail company, we will develop a mobile app with 6 key components as follows.
 
-components as follows.
+**i.** **Support oﬄine mode**
 
-**i.**
-
-**Support oﬄine mode**
-
-The retail company wants customers to be able to browse its products and view their order history
-
-when the internet is not available. Having the app supported with oﬄine mode is a way to achieve
-
-this feature. To ensure the downloaded database is updated, the app will be set to synchronize its
-
-database with the server once an internet connecꢀon is available.
+The retail company wants customers to be able to browse its products and view their order history when the internet is not available. Having the app supported with offline mode is a way to achieve this feature. To ensure the downloaded database is updated, the app will be set to synchronize its database with the server once an internet connection is available.
 
 **ii.**
 
