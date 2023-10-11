@@ -45,47 +45,21 @@ According to the above requirements given by the retail company, we will develop
 
 The retail company wants customers to be able to browse its products and view their order history when the internet is not available. Having the app supported with offline mode is a way to achieve this feature. To ensure the downloaded database is updated, the app will be set to synchronize its database with the server once an internet connection is available.
 
-**ii.**
+**ii.** **Push notification**
 
-**iii.**
+The retail company wants customers to be updated about its new product arrival, exclusion offers, order status, and order delivery status. Push notifications will be migrated to this app thus its customers will be notified accordingly.
 
-**iv.**
+**iii.** **Payment gateways**
 
-**Push noꢀﬁcaꢀon**
+Different payment gateways will be integrated into this app to allow customers to pay for their orders to facilitate secure and convenient payments. Credit card and third-party payment platform, named PayPal, will be used due to its security, ease of use, and compatibility with this app.
 
-The retail company wants customers to be updated about its new product arrival, exclusion oﬀers,
+**iv.** **User behavior tracking**
 
-order status, and order delivery status. Push noꢀﬁcaꢀons will be migrated to this app thus its
+The retail company wants to collect user behaviors in terms of product views, purchases, loyalty program interaction, etc. to improve app performance, enhance user experience, analyze user data, and design business strategies. To achieve this, the tracking function and analytics tool will be migrated to this app.
 
-customers will be noꢀﬁed accordingly.
+**v.** **Product image display**
 
-**Payment gateways**
-
-Diﬀerent payment gateways will be integrated into this app to allow customers to pay for their
-
-orders to facilitate secure and convenient payments. Credit card and third-party payment plaꢁorm,
-
-named PayPal, will be used due to its security, ease of use, and compaꢀbility with this app.
-
-**User behavior tracking**
-
-The retail company wants to collect user behaviors in terms of product views, purchases, loyalty
-
-program interacꢀon, etc. to improve app performance, enhance user experience, analyze user
-
-data, and design business strategies. To achieve this, the tracking funcꢀon and analyꢀcs tool will
-
-be migrated to this app.
-
-**v.**
-
-**Product image display**
-
-Photos of all products need to be displayed to users. Since a higher level of user experience in
-
-terms of aestheꢀcs is required, the size and resoluꢀon of photos need to be uniﬁed for easy
-
-browsing and app opꢀmal performance.
+Photos of all products need to be displayed to users. Since a higher level of user experience in terms of aesthetics is required, the size and resolution of photos need to be unified for easy browsing and app optimal performance.
 
 Page | 3
 
@@ -93,21 +67,11 @@ Page | 3
 
 <a name="br3"></a> 
 
-**vi.**
+**vi.** **Multi-language**
 
-**Mulꢀ-language**
+Because of the goal of global business expansion, to avoid surfing difficulties associated with language barriers and cultural preferences for a high level of user experience, choices of language will be available in the app. 
 
-Because of the goal of global business expansion, to avoid surﬁng diﬃculꢀes associated with
-
-language barriers and cultural preferences for a high level of user experience, choices of language
-
-will be available in the app.
-
-To build this app, we made 6 architectural decisions that deﬁne the technology stack and approach for this
-
-app development. These architectural decisions are developed based on the factors of performance,
-
-maintainability, and scalability.
+To build this app, we made 6 architectural decisions that define the technology stack and approach for this app development. These architectural decisions are developed based on the factors of performance, maintainability, and scalability.
 
 Page | 4
 
